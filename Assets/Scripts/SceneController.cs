@@ -54,7 +54,7 @@ public class SceneController : MonoBehaviour
 
         if (SceneManager.sceneCount == 1)
         {
-            LoadScene(firstAdditiveScene, false);
+            LoadScene(firstAdditiveScene, false, false);
         }
         else
         {
