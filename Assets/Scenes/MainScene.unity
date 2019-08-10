@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.4496631, g: 0.4997328, b: 0.5756454, a: 1}
+  m_IndirectSpecularColor: {r: 0.44839096, g: 0.49842346, b: 0.57561976, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -969,7 +969,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 04a842e316b6f44bf8da702de26a8ed6, type: 3}
-    m_FontSize: 48
+    m_FontSize: 32
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -980,8 +980,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Look, it's text and stuff! If you want to enter text it's really easy lol
-    you just type things here I guess and it fills out.
+  m_Text: "Yet another day without any succesful experiments. The other gnomes in
+    the village aren't convinced of my artificing skills anymore. \n\nI need to do
+    something to contact a higher being. Maybe I could build a device which could
+    do so? "
 --- !u!222 &940673630
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1471,7 +1473,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 04a842e316b6f44bf8da702de26a8ed6, type: 3}
-    m_FontSize: 48
+    m_FontSize: 32
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -1482,7 +1484,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Diary Day 42
+  m_Text: 'Savorin''s diary
+
+    16th of fall, 235'
 --- !u!222 &1242246868
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1921,14 +1925,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1408192403}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalRotation: {x: -0, y: -0.28755373, z: -0, w: 0.9577645}
+  m_LocalPosition: {x: 2.061, y: 1, z: -3.144}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 754712041}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -33.423, z: 0}
 --- !u!1 &1408192401
 GameObject:
   m_ObjectHideFlags: 0

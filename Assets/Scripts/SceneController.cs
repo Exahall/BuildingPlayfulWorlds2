@@ -32,11 +32,13 @@ public class SceneController : MonoBehaviour
     public float fadeLerpSpeed;
     public float fadeMoveSpeed;
 
+    private bool doFade;
     private bool isFadingOut;
 
     public float fadeDelay;
     private float fadeTimer;
 
+    private bool doShake;
     public float screenShakeFrequency;
     public float screenShakeStrength;
     public Transform screenShakeTarget;
@@ -50,7 +52,8 @@ public class SceneController : MonoBehaviour
         fadeToBlack.alpha = 1;
         fade = 1;
 
-        if (SceneManager.sceneCount == 1) {
+        if (SceneManager.sceneCount == 1)
+        {
             LoadScene(firstAdditiveScene, false);
         }
         else
@@ -61,12 +64,15 @@ public class SceneController : MonoBehaviour
     }
 
     // Load a new additive scene! If there's already an additive scene, then unload that one first.
-    public void LoadScene(string scene, bool screenShakeTransition)
+    public void LoadScene(string scene, bool fade, bool shake)
     {
         targetScene = scene;
-        if (screenShakeTransition) {
+        if (fade || shake)
+        {
             if (!isFadingOut)
             {
+                doFade = fade;
+                doShake = shake;
                 isFadingOut = true;
                 fadeTimer = fadeDelay;
                 screenShakeMultiplier = 0;
@@ -81,7 +87,7 @@ public class SceneController : MonoBehaviour
 
     private void Update()
     {
-        if (isFadingOut)
+        if (isFadingOut && doShake)
         {
             if (screenShakeMultiplier < 1)
             {
@@ -98,6 +104,10 @@ public class SceneController : MonoBehaviour
         if (fadeTimer > 0)
         {
             fadeTimer -= Time.deltaTime;
+            if (!doFade)
+            {
+                LoadSceneLogic();
+            }
         }
         else
         {
@@ -115,7 +125,8 @@ public class SceneController : MonoBehaviour
         }
     }
 
-    private void LoadSceneLogic() { 
+    private void LoadSceneLogic()
+    {
         if (activeAdditive != null && activeAdditive != "")
             SceneManager.UnloadSceneAsync(activeAdditive);
         activeAdditive = targetScene;
