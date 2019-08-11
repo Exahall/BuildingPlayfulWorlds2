@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//destroy a thing after a set amount of time!
 public class Lifetime : MonoBehaviour
 {
     public float lifetime;

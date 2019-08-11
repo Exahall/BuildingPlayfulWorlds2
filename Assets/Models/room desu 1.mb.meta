@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 485b0a15d56eddb42b40acff7fd590c0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: big_bookcase_1
+    100002: big_bookcase_2
+    100004: bigbottle
+    100006: books
+    100008: books 1
+    100010: books_amirite
+    100012: books_amirite 1
+    100014: books_amirite 2
+    100016: bottle
+    100018: bouten
+    100020: bouten 1
+    100022: box_1
+    100024: box_2
+    100026: box_3
+    100028: coathanger
+    100030: door
+    100032: floor
+    100034: glaswerk
+    100036: glaswerk 1
+    100038: group1
+    100040: jaggi_bed
+    100042: knoppen
+    100044: knoppen 1
+    100046: liquids
+    100048: liquids 1
+    100050: mug
+    100052: outside
+    100054: painting
+    100056: pCone1
+    100058: pCone1 1
+    100060: pCone1 2
+    100062: pCone2
+    100064: pCone2 1
+    100066: pCone2 2
+    100068: pCone3
+    100070: pCone3 1
+    100072: pCone3 2
+    100074: pCube1
+    100076: pCube10
+    100078: pCube11
+    100080: pCube12
+    100082: pCube13
+    100084: pCube14
+    100086: pCube15
+    100088: pCube16
+    100090: pCube17
+    100092: pCube18
+    100094: pCube2
+    100096: pCube2 1
+    100098: pCube2 2
+    100100: pCube26
+    100102: pCube27
+    100104: pCube28
+    100106: pCube29
+    100108: pCube3
+    100110: pCube30
+    100112: pCube30 1
+    100114: pCube30 2
+    100116: pCube31
+    100118: pCube31 1
+    100120: pCube31 2
+    100122: pCube32
+    100124: pCube32 1
+    100126: pCube32 2
+    100128: pCube33
+    100130: pCube33 1
+    100132: pCube33 2
+    100134: pCube34
+    100136: pCube34 1
+    100138: pCube34 2
+    100140: pCube35
+    100142: pCube35 1
+    100144: pCube35 2
+    100146: pCube36
+    100148: pCube36 1
+    100150: pCube36 2
+    100152: pCube4
+    100154: pCube4 1
+    100156: pCube4 2
+    100158: pCube5
+    100160: pCube5 1
+    100162: pCube5 2
+    100164: pCube6
+    100166: pCube6 1
+    100168: pCube6 2
+    100170: pCube7
+    100172: pCube7 1
+    100174: pCube9
+    100176: pCube9 1
+    100178: pCylinder10
+    100180: pCylinder10 1
+    100182: pCylinder10 2
+    100184: pCylinder12
+    100186: pCylinder13
+    100188: pCylinder14
+    100190: pCylinder15
+    100192: pCylinder16
+    100194: pCylinder17
+    100196: pCylinder18
+    100198: pCylinder18 1
+    100200: pCylinder19
+    100202: pCylinder19 1
+    100204: pCylinder2
+    100206: pCylinder20
+    100208: pCylinder20 1
+    100210: pCylinder21
+    100212: pCylinder22
+    100214: pCylinder3
+    100216: pCylinder4
+    100218: pCylinder5
+    100220: pCylinder6
+    100222: pCylinder6 1
+    100224: pCylinder9
+    100226: pPlane1
+    100228: pSphere1
+    100230: pSphere2
+    100232: //RootNode
+    100234: schroeven
+    100236: schroeven 1
+    100238: schroeven1
+    100240: schroeven2
+    100242: scrolls
+    100244: scrolls 1
+    100246: scrolls 2
+    100248: Shelf
+    100250: Shelf 1
+    100252: Shelf6
+    100254: Shelf6 1
+    100256: Shelf6 2
+    100258: shelf:books
+    100260: shelf:bouten
+    100262: shelf:glaswerk
+    100264: shelf:knoppen
+    100266: shelf:liquids
+    100268: shelf:pCone1
+    100270: shelf:pCone2
+    100272: shelf:pCone3
+    100274: shelf:pCube2
+    100276: shelf:pCube4
+    100278: shelf:pCube5
+    100280: shelf:pCube6
+    100282: shelf:pCube7
+    100284: shelf:pCube9
+    100286: shelf:pCylinder1
+    100288: shelf:pCylinder10
+    100290: shelf:pCylinder14
+    100292: shelf:pCylinder15
+    100294: shelf:pCylinder16
+    100296: shelf:pCylinder17
+    100298: shelf:pCylinder18
+    100300: shelf:pCylinder19
+    100302: shelf:pCylinder2
+    100304: shelf:pCylinder20
+    100306: shelf:pCylinder21
+    100308: shelf:pCylinder22
+    100310: shelf:pCylinder3
+    100312: shelf:pCylinder6
+    100314: shelf:pCylinder9
+    100316: shelf:pSphere1
+    100318: shelf:pSphere2
+    100320: shelf:pSphere3
+    100322: shelf:pSphere4
+    100324: shelf:schroeven
+    100326: shelf:scrolls
+    100328: shelf:Shelf
+    100330: shelf:Zaag
+    100332: shelf_1
+    100334: shelf_2
+    100336: shelf_3
+    100338: small_bookcase
+    100340: table
+    100342: tablelegs
+    100344: tablelegs_2
+    100346: walls
+    100348: windowsill
+    100350: wrench
+    100352: wrench1
+    100354: wrench2
+    100356: wrench_dog
+    400000: big_bookcase_1
+    400002: big_bookcase_2
+    400004: bigbottle
+    400006: books
+    400008: books 1
+    400010: books_amirite
+    400012: books_amirite 1
+    400014: books_amirite 2
+    400016: bottle
+    400018: bouten
+    400020: bouten 1
+    400022: box_1
+    400024: box_2
+    400026: box_3
+    400028: coathanger
+    400030: door
+    400032: floor
+    400034: glaswerk
+    400036: glaswerk 1
+    400038: group1
+    400040: jaggi_bed
+    400042: knoppen
+    400044: knoppen 1
+    400046: liquids
+    400048: liquids 1
+    400050: mug
+    400052: outside
+    400054: painting
+    400056: pCone1
+    400058: pCone1 1
+    400060: pCone1 2
+    400062: pCone2
+    400064: pCone2 1
+    400066: pCone2 2
+    400068: pCone3
+    400070: pCone3 1
+    400072: pCone3 2
+    400074: pCube1
+    400076: pCube10
+    400078: pCube11
+    400080: pCube12
+    400082: pCube13
+    400084: pCube14
+    400086: pCube15
+    400088: pCube16
+    400090: pCube17
+    400092: pCube18
+    400094: pCube2
+    400096: pCube2 1
+    400098: pCube2 2
+    400100: pCube26
+    400102: pCube27
+    400104: pCube28
+    400106: pCube29
+    400108: pCube3
+    400110: pCube30
+    400112: pCube30 1
+    400114: pCube30 2
+    400116: pCube31
+    400118: pCube31 1
+    400120: pCube31 2
+    400122: pCube32
+    400124: pCube32 1
+    400126: pCube32 2
+    400128: pCube33
+    400130: pCube33 1
+    400132: pCube33 2
+    400134: pCube34
+    400136: pCube34 1
+    400138: pCube34 2
+    400140: pCube35
+    400142: pCube35 1
+    400144: pCube35 2
+    400146: pCube36
+    400148: pCube36 1
+    400150: pCube36 2
+    400152: pCube4
+    400154: pCube4 1
+    400156: pCube4 2
+    400158: pCube5
+    400160: pCube5 1
+    400162: pCube5 2
+    400164: pCube6
+    400166: pCube6 1
+    400168: pCube6 2
+    400170: pCube7
+    400172: pCube7 1
+    400174: pCube9
+    400176: pCube9 1
+    400178: pCylinder10
+    400180: pCylinder10 1
+    400182: pCylinder10 2
+    400184: pCylinder12
+    400186: pCylinder13
+    400188: pCylinder14
+    400190: pCylinder15
+    400192: pCylinder16
+    400194: pCylinder17
+    400196: pCylinder18
+    400198: pCylinder18 1
+    400200: pCylinder19
+    400202: pCylinder19 1
+    400204: pCylinder2
+    400206: pCylinder20
+    400208: pCylinder20 1
+    400210: pCylinder21
+    400212: pCylinder22
+    400214: pCylinder3
+    400216: pCylinder4
+    400218: pCylinder5
+    400220: pCylinder6
+    400222: pCylinder6 1
+    400224: pCylinder9
+    400226: pPlane1
+    400228: pSphere1
+    400230: pSphere2
+    400232: //RootNode
+    400234: schroeven
+    400236: schroeven 1
+    400238: schroeven1
+    400240: schroeven2
+    400242: scrolls
+    400244: scrolls 1
+    400246: scrolls 2
+    400248: Shelf
+    400250: Shelf 1
+    400252: Shelf6
+    400254: Shelf6 1
+    400256: Shelf6 2
+    400258: shelf:books
+    400260: shelf:bouten
+    400262: shelf:glaswerk
+    400264: shelf:knoppen
+    400266: shelf:liquids
+    400268: shelf:pCone1
+    400270: shelf:pCone2
+    400272: shelf:pCone3
+    400274: shelf:pCube2
+    400276: shelf:pCube4
+    400278: shelf:pCube5
+    400280: shelf:pCube6
+    400282: shelf:pCube7
+    400284: shelf:pCube9
+    400286: shelf:pCylinder1
+    400288: shelf:pCylinder10
+    400290: shelf:pCylinder14
+    400292: shelf:pCylinder15
+    400294: shelf:pCylinder16
+    400296: shelf:pCylinder17
+    400298: shelf:pCylinder18
+    400300: shelf:pCylinder19
+    400302: shelf:pCylinder2
+    400304: shelf:pCylinder20
+    400306: shelf:pCylinder21
+    400308: shelf:pCylinder22
+    400310: shelf:pCylinder3
+    400312: shelf:pCylinder6
+    400314: shelf:pCylinder9
+    400316: shelf:pSphere1
+    400318: shelf:pSphere2
+    400320: shelf:pSphere3
+    400322: shelf:pSphere4
+    400324: shelf:schroeven
+    400326: shelf:scrolls
+    400328: shelf:Shelf
+    400330: shelf:Zaag
+    400332: shelf_1
+    400334: shelf_2
+    400336: shelf_3
+    400338: small_bookcase
+    400340: table
+    400342: tablelegs
+    400344: tablelegs_2
+    400346: walls
+    400348: windowsill
+    400350: wrench
+    400352: wrench1
+    400354: wrench2
+    400356: wrench_dog
+    2100000: lambert1
+    2100002: shelf_aiStandardSurface1
+    2100004: shelf_aiStandardSurface2
+    2300000: bigbottle
+    2300002: bottle
+    2300004: box_1
+    2300006: box_2
+    2300008: box_3
+    2300010: door
+    2300012: floor
+    2300014: jaggi_bed
+    2300016: outside
+    2300018: painting
+    2300020: pCone1
+    2300022: pCone1 1
+    2300024: pCone1 2
+    2300026: pCone2
+    2300028: pCone2 1
+    2300030: pCone2 2
+    2300032: pCone3
+    2300034: pCone3 1
+    2300036: pCone3 2
+    2300038: pCube1
+    2300040: pCube10
+    2300042: pCube11
+    2300044: pCube12
+    2300046: pCube13
+    2300048: pCube14
+    2300050: pCube15
+    2300052: pCube16
+    2300054: pCube17
+    2300056: pCube18
+    2300058: pCube2
+    2300060: pCube2 1
+    2300062: pCube2 2
+    2300064: pCube26
+    2300066: pCube27
+    2300068: pCube28
+    2300070: pCube29
+    2300072: pCube3
+    2300074: pCube30
+    2300076: pCube30 1
+    2300078: pCube30 2
+    2300080: pCube31
+    2300082: pCube31 1
+    2300084: pCube31 2
+    2300086: pCube32
+    2300088: pCube32 1
+    2300090: pCube32 2
+    2300092: pCube33
+    2300094: pCube33 1
+    2300096: pCube33 2
+    2300098: pCube34
+    2300100: pCube34 1
+    2300102: pCube34 2
+    2300104: pCube35
+    2300106: pCube35 1
+    2300108: pCube35 2
+    2300110: pCube36
+    2300112: pCube36 1
+    2300114: pCube36 2
+    2300116: pCube4
+    2300118: pCube4 1
+    2300120: pCube4 2
+    2300122: pCube5
+    2300124: pCube5 1
+    2300126: pCube5 2
+    2300128: pCube6
+    2300130: pCube6 1
+    2300132: pCube6 2
+    2300134: pCube7
+    2300136: pCube7 1
+    2300138: pCube9
+    2300140: pCube9 1
+    2300142: pCylinder10
+    2300144: pCylinder10 1
+    2300146: pCylinder10 2
+    2300148: pCylinder12
+    2300150: pCylinder13
+    2300152: pCylinder14
+    2300154: pCylinder15
+    2300156: pCylinder16
+    2300158: pCylinder17
+    2300160: pCylinder18
+    2300162: pCylinder18 1
+    2300164: pCylinder19
+    2300166: pCylinder19 1
+    2300168: pCylinder2
+    2300170: pCylinder20
+    2300172: pCylinder20 1
+    2300174: pCylinder21
+    2300176: pCylinder22
+    2300178: pCylinder3
+    2300180: pCylinder4
+    2300182: pCylinder5
+    2300184: pCylinder6
+    2300186: pCylinder6 1
+    2300188: pCylinder9
+    2300190: pPlane1
+    2300192: pSphere1
+    2300194: pSphere2
+    2300196: Shelf
+    2300198: Shelf 1
+    2300200: Shelf6
+    2300202: Shelf6 1
+    2300204: Shelf6 2
+    2300206: shelf:pCone1
+    2300208: shelf:pCone2
+    2300210: shelf:pCone3
+    2300212: shelf:pCube2
+    2300214: shelf:pCube4
+    2300216: shelf:pCube5
+    2300218: shelf:pCube6
+    2300220: shelf:pCube7
+    2300222: shelf:pCube9
+    2300224: shelf:pCylinder1
+    2300226: shelf:pCylinder10
+    2300228: shelf:pCylinder14
+    2300230: shelf:pCylinder15
+    2300232: shelf:pCylinder16
+    2300234: shelf:pCylinder17
+    2300236: shelf:pCylinder18
+    2300238: shelf:pCylinder19
+    2300240: shelf:pCylinder2
+    2300242: shelf:pCylinder20
+    2300244: shelf:pCylinder21
+    2300246: shelf:pCylinder22
+    2300248: shelf:pCylinder3
+    2300250: shelf:pCylinder6
+    2300252: shelf:pCylinder9
+    2300254: shelf:pSphere1
+    2300256: shelf:pSphere2
+    2300258: shelf:pSphere3
+    2300260: shelf:pSphere4
+    2300262: shelf:Shelf
+    2300264: shelf:Zaag
+    2300266: table
+    2300268: walls
+    2300270: windowsill
+    2300272: wrench
+    2300274: wrench1
+    2300276: wrench2
+    2300278: wrench_dog
+    3300000: bigbottle
+    3300002: bottle
+    3300004: box_1
+    3300006: box_2
+    3300008: box_3
+    3300010: door
+    3300012: floor
+    3300014: jaggi_bed
+    3300016: outside
+    3300018: painting
+    3300020: pCone1
+    3300022: pCone1 1
+    3300024: pCone1 2
+    3300026: pCone2
+    3300028: pCone2 1
+    3300030: pCone2 2
+    3300032: pCone3
+    3300034: pCone3 1
+    3300036: pCone3 2
+    3300038: pCube1
+    3300040: pCube10
+    3300042: pCube11
+    3300044: pCube12
+    3300046: pCube13
+    3300048: pCube14
+    3300050: pCube15
+    3300052: pCube16
+    3300054: pCube17
+    3300056: pCube18
+    3300058: pCube2
+    3300060: pCube2 1
+    3300062: pCube2 2
+    3300064: pCube26
+    3300066: pCube27
+    3300068: pCube28
+    3300070: pCube29
+    3300072: pCube3
+    3300074: pCube30
+    3300076: pCube30 1
+    3300078: pCube30 2
+    3300080: pCube31
+    3300082: pCube31 1
+    3300084: pCube31 2
+    3300086: pCube32
+    3300088: pCube32 1
+    3300090: pCube32 2
+    3300092: pCube33
+    3300094: pCube33 1
+    3300096: pCube33 2
+    3300098: pCube34
+    3300100: pCube34 1
+    3300102: pCube34 2
+    3300104: pCube35
+    3300106: pCube35 1
+    3300108: pCube35 2
+    3300110: pCube36
+    3300112: pCube36 1
+    3300114: pCube36 2
+    3300116: pCube4
+    3300118: pCube4 1
+    3300120: pCube4 2
+    3300122: pCube5
+    3300124: pCube5 1
+    3300126: pCube5 2
+    3300128: pCube6
+    3300130: pCube6 1
+    3300132: pCube6 2
+    3300134: pCube7
+    3300136: pCube7 1
+    3300138: pCube9
+    3300140: pCube9 1
+    3300142: pCylinder10
+    3300144: pCylinder10 1
+    3300146: pCylinder10 2
+    3300148: pCylinder12
+    3300150: pCylinder13
+    3300152: pCylinder14
+    3300154: pCylinder15
+    3300156: pCylinder16
+    3300158: pCylinder17
+    3300160: pCylinder18
+    3300162: pCylinder18 1
+    3300164: pCylinder19
+    3300166: pCylinder19 1
+    3300168: pCylinder2
+    3300170: pCylinder20
+    3300172: pCylinder20 1
+    3300174: pCylinder21
+    3300176: pCylinder22
+    3300178: pCylinder3
+    3300180: pCylinder4
+    3300182: pCylinder5
+    3300184: pCylinder6
+    3300186: pCylinder6 1
+    3300188: pCylinder9
+    3300190: pPlane1
+    3300192: pSphere1
+    3300194: pSphere2
+    3300196: Shelf
+    3300198: Shelf 1
+    3300200: Shelf6
+    3300202: Shelf6 1
+    3300204: Shelf6 2
+    3300206: shelf:pCone1
+    3300208: shelf:pCone2
+    3300210: shelf:pCone3
+    3300212: shelf:pCube2
+    3300214: shelf:pCube4
+    3300216: shelf:pCube5
+    3300218: shelf:pCube6
+    3300220: shelf:pCube7
+    3300222: shelf:pCube9
+    3300224: shelf:pCylinder1
+    3300226: shelf:pCylinder10
+    3300228: shelf:pCylinder14
+    3300230: shelf:pCylinder15
+    3300232: shelf:pCylinder16
+    3300234: shelf:pCylinder17
+    3300236: shelf:pCylinder18
+    3300238: shelf:pCylinder19
+    3300240: shelf:pCylinder2
+    3300242: shelf:pCylinder20
+    3300244: shelf:pCylinder21
+    3300246: shelf:pCylinder22
+    3300248: shelf:pCylinder3
+    3300250: shelf:pCylinder6
+    3300252: shelf:pCylinder9
+    3300254: shelf:pSphere1
+    3300256: shelf:pSphere2
+    3300258: shelf:pSphere3
+    3300260: shelf:pSphere4
+    3300262: shelf:Shelf
+    3300264: shelf:Zaag
+    3300266: table
+    3300268: walls
+    3300270: windowsill
+    3300272: wrench
+    3300274: wrench1
+    3300276: wrench2
+    3300278: wrench_dog
+    4300000: walls
+    4300002: pCylinder2
+    4300004: pCube1
+    4300006: pCube2
+    4300008: pCylinder3
+    4300010: pCube3
+    4300012: pCube4
+    4300014: pCylinder4
+    4300016: pCylinder5
+    4300018: pCube5
+    4300020: pCylinder6
+    4300022: pCube6
+    4300024: table
+    4300026: jaggi_bed
+    4300028: pCylinder10
+    4300030: pCube10
+    4300032: pPlane1
+    4300034: pCube15
+    4300036: pCube16
+    4300038: pCube17
+    4300040: pCube18
+    4300042: pCube11
+    4300044: pCube12
+    4300046: pCube13
+    4300048: pCube14
+    4300050: bottle
+    4300052: pCylinder12
+    4300054: pCylinder13
+    4300056: wrench2
+    4300058: wrench_dog
+    4300060: windowsill
+    4300062: shelf:Shelf
+    4300064: shelf:Zaag
+    4300066: shelf:pCylinder10
+    4300068: shelf:pCylinder18
+    4300070: shelf:pCylinder19
+    4300072: shelf:pCylinder20
+    4300074: shelf:pCone3
+    4300076: shelf:pCone2
+    4300078: shelf:pCone1
+    4300080: shelf:pCylinder9
+    4300082: shelf:pCylinder16
+    4300084: shelf:pCylinder17
+    4300086: shelf:pCylinder6
+    4300088: shelf:pCylinder14
+    4300090: shelf:pCylinder15
+    4300092: shelf:pCube2
+    4300094: shelf:pCube4
+    4300096: shelf:pCube9
+    4300098: shelf:pCube6
+    4300100: shelf:pCube5
+    4300102: shelf:pCube7
+    4300104: shelf:pSphere1
+    4300106: shelf:pSphere4
+    4300108: shelf:pCylinder1
+    4300110: shelf:pCylinder21
+    4300112: shelf:pCylinder3
+    4300114: shelf:pCylinder22
+    4300116: shelf:pCylinder2
+    4300118: shelf:pSphere3
+    4300120: shelf:pSphere2
+    4300122: pCylinder10
+    4300124: pCylinder18
+    4300126: pCylinder19
+    4300128: pCylinder20
+    4300130: Shelf
+    4300132: pCylinder10
+    4300134: pCylinder18
+    4300136: pCylinder19
+    4300138: pCylinder20
+    4300140: pCone3
+    4300142: pCone2
+    4300144: pCone1
+    4300146: pCylinder9
+    4300148: pCylinder16
+    4300150: pCylinder17
+    4300152: pCylinder6
+    4300154: pCylinder14
+    4300156: pCylinder15
+    4300158: pCube2
+    4300160: pCube4
+    4300162: pCube9
+    4300164: pCube6
+    4300166: pCube5
+    4300168: pCube7
+    4300170: pCube26
+    4300172: pSphere1
+    4300174: pCylinder21
+    4300176: pCylinder22
+    4300178: pSphere2
+    4300180: pCone3
+    4300182: pCone2
+    4300184: pCone1
+    4300186: pCone3
+    4300188: pCone2
+    4300190: pCone1
+    4300192: pCube2
+    4300194: pCube4
+    4300196: pCube9
+    4300198: pCube6
+    4300200: pCube5
+    4300202: pCube7
+    4300204: pCube27
+    4300206: pCube28
+    4300208: pCube29
+    4300210: Shelf
+    4300212: pCube30
+    4300214: pCube31
+    4300216: pCube32
+    4300218: pCube33
+    4300220: pCube34
+    4300222: pCube35
+    4300224: pCube36
+    4300226: Shelf6
+    4300228: pCube30
+    4300230: pCube31
+    4300232: pCube32
+    4300234: pCube33
+    4300236: pCube34
+    4300238: pCube35
+    4300240: pCube36
+    4300242: Shelf6
+    4300244: pCube30
+    4300246: pCube31
+    4300248: pCube32
+    4300250: pCube33
+    4300252: pCube34
+    4300254: pCube35
+    4300256: pCube36
+    4300258: Shelf6
+    4300260: wrench
+    4300262: wrench1
+    4300264: floor
+    4300266: outside
+    4300268: bigbottle
+    4300270: box_1
+    4300272: box_2
+    4300274: painting
+    4300276: door
+    4300278: box_3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

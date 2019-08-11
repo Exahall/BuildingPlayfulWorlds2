@@ -7,8 +7,13 @@ using UnityEngine;
 public enum DiaryPage
 {
     none,
-    introduction,
-    middle,
-    anotherOne,
+    firstLog,
+    secondLog,
+    thirdLog,
+    fourthLog,
+    fifthLog,
+    sixthLog,
+    seventhLog,
+    eightLog,
     endGame
 }
